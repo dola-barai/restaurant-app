@@ -1,0 +1,704 @@
+[
+    {
+        "id": 1,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Paneer Tikka",
+        "recipe": "Cubes of marinated paneer cheese grilled to perfection, served with mint chutney.",
+        "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19990.jpg?w=740&t=st=1693643192~exp=1693643792~hmac=92de3f3ad1a2fc8a6063d73c88824e27053c1f72a3f6c630a37fb1d391573be7",
+        "price": 350
+    },
+    {
+        "id": 2,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Samosa",
+        "recipe": "Crispy pastry filled with spiced potatoes and peas, a classic Indian street food.",
+        "image": "https://img.freepik.com/premium-photo/savoring-irresistible-allure-fried-culinary-creations-golden-delights_984027-2199.jpg?w=740",
+        "price": 200
+    },
+    {
+        "id": 3,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Chicken Kebab",
+        "recipe": "Succulent pieces of marinated chicken skewered and char-grilled, accompanied by a tangy dip.",
+        "image": "https://www.licious.in/blog/wp-content/uploads/2022/09/Shutterstock_1033917202.jpg",
+        "price": 400
+    },
+    {
+        "id": 4,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Dahi Puri",
+        "recipe": "Delicate semolina shells filled with yogurt, chutneys, and chickpeas, offering a burst of flavors.",
+        "image": "https://img.freepik.com/free-photo/homemade-meatball-appetizer-with-fresh-organic-ingredients-generated-by-ai_188544-43149.jpg?t=st=1693646242~exp=1693649842~hmac=987ab03dc149dc5da1eb333ab0fcfcbb49536fdba8dc955172d3cd553228479e&w=826",
+        "price": 250
+    },
+    {
+        "id": 5,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Aloo Chaat",
+        "recipe": "Diced potatoes mixed with spices, chutneys, and fresh herbs, creating a tangy and savory delight.",
+        "image": "https://img.freepik.com/free-photo/healthy-meal-grilled-beef-taco-salad-recipe-generated-by-ai_188544-30597.jpg?t=st=1693639216~exp=1693642816~hmac=f7a6078a370a8a356688d7afdb68e2955727ee6c22006bdd522691052130da51&w=740",
+        "price": 220
+    },
+    {
+        "id": 6,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Pani Puri",
+        "recipe": "Hollow puris filled with spicy tamarind water, potatoes, and chickpeas, delivering a unique taste experience.",
+        "image": "https://img.freepik.com/premium-photo/plate-indian-food-with-golden-plate-that-says-navratri-it_787273-3467.jpg?w=740",
+        "price": 180
+    },
+    {
+        "id": 7,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Vegetable Pakoras",
+        "recipe": "Mixed vegetable fritters seasoned with aromatic spices, crispy on the outside, and soft inside.",
+        "image": "https://images.services.kitchenstories.io/I1J1RunmQ7cK6OjgqkyO5GK1_6o=/3840x0/filters:quality(80)/images.kitchenstories.io/wagtailOriginalImages/R2386-photo-final-3.jpg",
+        "price": 280
+    },
+    {
+        "id": 8,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Papdi Chaat",
+        "recipe": "Crunchy papdis topped with yogurt, chutneys, and a medley of flavorsome ingredients.",
+        "image": "https://img.freepik.com/free-photo/healthy-meal-grilled-beef-taco-salad-recipe-generated-by-ai_188544-30597.jpg?t=st=1693639216~exp=1693642816~hmac=f7a6078a370a8a356688d7afdb68e2955727ee6c22006bdd522691052130da51&w=740",
+        "price": 270
+    },
+    {
+        "id": 9,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Tandoori Mushrooms",
+        "recipe": "Marinated mushrooms cooked in a tandoor, imparting a smoky aroma and rich taste.",
+        "image": "https://img.freepik.com/free-photo/grilled-skewers-meat-vegetables-plate-generated-by-ai_188544-15267.jpg?t=st=1693634584~exp=1693638184~hmac=168c9a4af4486a63399848c4b876d1bcb935c3dc540b83a554e4d6d86efc15b7&w=740",
+        "price": 320
+    },
+    {
+        "id": 10,
+        "menu": "Indian",
+        "category": "Appetizers",
+        "item": "Palak Chaat",
+        "recipe": "Spinach leaves tossed with spices, crispy lentil vermicelli, and yogurt dressing, a textural delight.",
+        "image": "https://img.freepik.com/free-photo/freshly-cooked-seafood-vegetable-gourmet-meal-generated-by-ai_188544-24719.jpg?t=st=1693649820~exp=1693653420~hmac=688da23051e97da2d463c2a5d79e5a88ad404029de46e61e1666bae180644b6b&w=740",
+        "price": 300
+    },
+    {
+        "id": 11,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Butter Chicken",
+        "recipe": "Tender chicken cooked in a creamy tomato-based sauce, served with naan.",
+        "image": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken-.jpg",
+        "price": 450
+    },
+    {
+        "id": 12,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Paneer Makhani",
+        "recipe": "Soft paneer cubes in a rich tomato and cashew gravy, a vegetarian delight.",
+        "image": "data:image/jpeg;base64,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",
+        "price": 380
+    },
+    {
+        "id": 13,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Biryani",
+        "recipe": "Fragrant basmati rice cooked with aromatic spices and choice of meat or vegetables.",
+        "image": "https://img.freepik.com/free-photo/plate-food-with-lemon-lemon_505751-3815.jpg?t=st=1693635587~exp=1693639187~hmac=aef792648cb28bcc56b2a6743912e1cdcf0ed55f42c037d8336caf306e9e3aae&w=740",
+        "price": 400
+    },
+    {
+        "id": 14,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Dal Makhani",
+        "recipe": "Slow-cooked black lentils in a creamy tomato-based sauce, served with naan or rice.",
+        "image": "https://img.freepik.com/free-photo/fresh-gourmet-meal-rustic-wooden-table-generated-by-ai_188544-37374.jpg?t=st=1693636092~exp=1693639692~hmac=388c93bee75cb29abefe6d7edb6c9e00fd95f10794a49f8dbf9e6a6293b0ddc5&w=740",
+        "price": 350
+    },
+    {
+        "id": 15,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Rogan Josh",
+        "recipe": "Flavorful lamb curry cooked with traditional Indian spices and served with roti.",
+        "image": "https://img.freepik.com/free-photo/bowl-food-with-spoon-table-glass-orange-juice_1340-34219.jpg?t=st=1693626933~exp=1693630533~hmac=99da029a0b717968d194a27f5fe9d52d730aad9f2f7996d8c93e270970d39d86&w=740",
+        "price": 420
+    },
+    {
+        "id": 16,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Aloo Paratha",
+        "recipe": "Whole wheat bread stuffed with spiced potato filling, usually accompanied by yogurt or pickles. A hearty and satisfying breakfast or meal.",
+        "image": "https://img.freepik.com/premium-photo/tasty-aloo-pratha-with-mini-sauces-bowl-white-background_787273-4683.jpg?w=740",
+        "price": 240
+    },
+    {
+        "id": 17,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Seekh Kebab",
+        "recipe": "Spiced minced meat (often lamb or chicken) molded onto skewers and grilled to perfection. A succulent and flavorful appetizer.",
+        "image": "https://img.freepik.com/free-photo/meat-skewer-with-vegetables-black-backgroundai-generative_123827-24918.jpg?t=st=1693650151~exp=1693653751~hmac=e17bab9749be063b55b9d946d2a8375b25cfd10932c629740f6935c3bd4d72aa&w=740",
+        "price": 320
+    },
+    {
+        "id": 18,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Biryani(Mutton)",
+        "recipe": "Fragrant rice cooked with meat or vegetables, layered with aromatic spices and saffron. A one-pot wonder known for its complexity of flavors.",
+        "image": "https://img.freepik.com/free-photo/plate-food-with-lemon-lemon_505751-3815.jpg?t=st=1693635587~exp=1693639187~hmac=aef792648cb28bcc56b2a6743912e1cdcf0ed55f42c037d8336caf306e9e3aae&w=740",
+        "price": 480
+    },
+    {
+        "id": 19,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Chole Bhature",
+        "recipe": "Spiced chickpea curry served with deep-fried bread, a popular North Indian dish.",
+        "image": "https://static.toiimg.com/thumb/53314156.cms?width=1200&height=900",
+        "price": 260
+    },
+    {
+        "id": 20,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Fish Curry",
+        "recipe": "Fish cooked in a tangy coconut or tomato-based curry, served with steamed rice.",
+        "image": "https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-black-textured-background-isolated_527904-2013.jpg",
+        "price": 380
+    },
+    {
+        "id": 21,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Baingan Bharta",
+        "recipe": "Smoky roasted eggplant cooked with onions, tomatoes, and spices, a vegetarian favorite.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Baingan_bharta.JPG/1200px-Baingan_bharta.JPG",
+        "price": 280
+    },
+    {
+        "id": 22,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Keema Matar",
+        "recipe": "Minced meat cooked with peas and spices, served with Indian breads.",
+        "image": "https://res.cloudinary.com/hksqkdlah/image/upload/SFS_Beef_Kheema_Matar_312_jljvfa.jpg",
+        "price": 360
+    },
+    {
+        "id": 23,
+        "menu": "North Indian",
+        "category": "North Indian Cuisine",
+        "item": "Sarson da Saag",
+        "recipe": "Leafy greens cooked with mustard greens and spices, typically enjoyed with makki di roti.",
+        "image": "https://desidhaba.com.au/wp-content/uploads/2020/07/sarsodasaag.jpg",
+        "price": 300
+    },
+    {
+        "id": 24,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Dosa",
+        "recipe": "A thin, crispy crepe made from fermented rice and lentil batter, typically served with coconut chutney and sambar (a lentil-based vegetable stew).",
+        "image": "https://t3.ftcdn.net/jpg/03/97/46/66/360_F_397466683_4U8hMaUgWdFPNc8KMKUQ4aH2qR1yG0sA.jpg",
+        "price": 180
+    },
+    {
+        "id": 25,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Idli",
+        "recipe": "Soft, steamed rice and lentil cakes, often enjoyed with coconut chutney and sambar.",
+        "image": "https://t4.ftcdn.net/jpg/04/26/94/99/360_F_426949957_iFC4zrETHm1lFMiLpsVXeAhFQe6vCNAk.jpg",
+        "price": 160
+    },
+    {
+        "id": 26,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Uttapam",
+        "recipe": "A thick, savory pancake made from fermented batter, usually topped with chopped vegetables like onions, tomatoes, and bell peppers.",
+        "image": "https://t3.ftcdn.net/jpg/03/09/78/22/360_F_309782256_SNmtGV3SZnHU6r7ZO17XpuawIt9h8SLQ.jpg",
+        "price": 200
+    },
+    {
+        "id": 27,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Sambhar",
+        "recipe": "A flavorful, tangy lentil stew made with various vegetables, tamarind, and a special blend of spices.",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/sambar.jpg.webp",
+        "price": 150
+    },
+    {
+        "id": 28,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Rasam",
+        "recipe": "A spicy and tangy soup-like dish made from tamarind, tomatoes, and aromatic spices, often served as an appetizer or with rice.",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/rasam-recipe-swasthis-1.jpg.webp",
+        "price": 130
+    },
+    {
+        "id": 29,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Puliyodarai (Tamarind Rice)",
+        "recipe": "A tangy rice dish cooked with tamarind paste, peanuts, and a mix of spices, offering a burst of flavors.",
+        "image": "https://1.bp.blogspot.com/-oN02pMe0Rr8/VMfRNXqen0I/AAAAAAAADVo/ce5wbSX57AI/s640/Puliyodarai..jpg",
+        "price": 220
+    },
+    {
+        "id": 30,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Curry Leaves Rice",
+        "recipe": "Fragrant rice infused with the earthy aroma of curry leaves, often paired with a spicy side dish.",
+        "image": "https://images.food52.com/1DPuTpbsCgE9ps3cbxSJ-Yp9e2U=/1200x1200/0dd4b375-8c8e-4043-b18b-b44aea83bb05--3.jpg",
+        "price": 180
+    },
+    {
+        "id": 31,
+        "menu": "South Indian",
+        "category": "South Indian Cuisine",
+        "item": "Coconut Rice",
+        "recipe": "Rice cooked with grated coconut and a tempering of mustard seeds, lentils, and curry leaves.",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/coconut-rice-recipe.jpg",
+        "price": 200
+    },
+    {
+        "id": 32,
+        "menu": "Indian",
+        "category": "Snacks and Appetizers",
+        "item": "Vada",
+        "recipe": "Deep-fried lentil fritters, typically served with coconut chutney or sambar.",
+        "image": "https://media.istockphoto.com/id/1292633263/photo/indian-fried-snack-medu-vada-with-sambar-and-coconut-chutney-in-plate-on-rustic-wooden.jpg?s=612x612&w=0&k=20&c=I24Sl76Qq4ly7WlI3HJJa8VfCIkBxvsgVZ8mAb81ZEA=",
+        "price": 150
+    },
+    {
+        "id": 33,
+        "menu": "Indian",
+        "category": "Snacks and Appetizers",
+        "item": "Bonda",
+        "recipe": "Deep-fried, round fritters made from spiced potato filling.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9CxtfSo_g8lff5SPDTCThFaqnJZAGh6f0A&usqp=CAU",
+        "price": 160
+    },
+    {
+        "id": 34,
+        "menu": "Indian",
+        "category": "Snacks and Appetizers",
+        "item": "Medu Vada",
+        "recipe": "Crispy, doughnut-shaped fritters made from urad dal (black gram) batter.",
+        "image": "https://thumbs.dreamstime.com/b/vadai-vada-south-indian-snack-chutney-56223727.jpg",
+        "price": 170
+    },
+    {
+        "id": 35,
+        "menu": "Indian",
+        "category": "Snacks and Appetizers",
+        "item": "Pongal",
+        "recipe": "A savory dish made from rice and lentils, often flavored with black pepper and ghee.",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/ven-pongal-recipe.jpg",
+        "price": 190
+    },
+    {
+        "id": 36,
+        "menu": "Indian",
+        "category": "Snacks and Appetizers",
+        "item": "Chutneys",
+        "recipe": "Various types of chutneys, including coconut chutney, tomato chutney, and onion chutney, served as accompaniments to dosa and idli.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR48us0GVB2urTo7ydUg5NeFJ4nfj0klTjy_w&usqp=CAU",
+        "price": 50
+    },
+    {
+        "id": 37,
+        "menu": "Indian",
+        "category": "Desserts",
+        "item": "Payasam",
+        "recipe": "A sweet rice pudding made with milk, rice, jaggery (unrefined sugar), and flavored with cardamom and nuts.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kheer%28Payasam%29.jpg/800px-Kheer%28Payasam%29.jpg",
+        "price": 180
+    },
+    {
+        "id": 38,
+        "menu": "Indian",
+        "category": "Desserts",
+        "item": "Mysore Pak",
+        "recipe": "A rich and crumbly sweet made from gram flour, ghee, and sugar.",
+        "image": "https://traditionallymodernfood.com/wp-content/uploads/2020/11/ghee-mysore-pak-1-scaled.jpeg",
+        "price": 160
+    },
+    {
+        "id": 39,
+        "menu": "Indian",
+        "category": "Desserts",
+        "item": "Coconut Ladoo",
+        "recipe": "Sweet balls made from grated coconut and condensed milk, a simple yet delightful treat.",
+        "image": "https://aromaticessence.co/wp-content/uploads/2021/07/coconut_laddoo_featured.jpg",
+        "price": 140
+    },
+    {
+        "id": 40,
+        "menu": "Indian",
+        "category": "Desserts",
+        "item": "Jangri",
+        "recipe": "An intricately designed sweet made from urad dal batter and soaked in sugar syrup.",
+        "image": "https://i.pinimg.com/564x/cf/0f/61/cf0f617fa158d00a90b2266d187bb24d.jpg",
+        "price": 150
+    },
+    {
+        "id": 41,
+        "menu": "Indian",
+        "category": "Desserts",
+        "item": "Badam Halwa",
+        "recipe": "A luscious dessert made from almonds, ghee, and sugar, often enjoyed during festivals.",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/badam-halwa-almond-halwa.jpg.webp",
+        "price": 190
+    },
+    {
+        "id": 42,
+        "menu": "Indian",
+        "category": "Beverages",
+        "item": "Filter Coffee",
+        "recipe": "A strong, aromatic coffee made by dripping coffee decoction through a metal filter and serving it with milk and sugar.",
+        "image": "https://www.thecaffeinebaar.com/cdn/shop/articles/Filter_1024x1024.jpg?v=1636717220",
+        "price": 120
+    },
+    {
+        "id": 43,
+        "menu": "Indian",
+        "category": "Beverages",
+        "item": "Buttermilk",
+        "recipe": "Chilled, spiced yogurt-based drink that aids digestion and cools the body.",
+        "image": "https://images.indianexpress.com/2019/12/Buttermilk_759.jpg",
+        "price": 80
+    },
+    {
+        "id": 44,
+        "menu": "Indian",
+        "category": "Beverages",
+        "item": "Neer Mor",
+        "recipe": "A refreshing buttermilk-based drink flavored with ginger, green chilies, and curry leaves.",
+        "image": "https://www.jeyashriskitchen.com/wp-content/uploads/2012/03/IMG_7324.jpg",
+        "price": 90
+    },
+    {
+        "id": 45,
+        "menu": "Indian",
+        "category": "Desserts",
+        "item": "Gulab Jamun",
+        "recipe": "Deep-fried dough balls soaked in cardamom-scented sugar syrup.",
+        "image": "https://www.cookwithnabeela.com/wp-content/uploads/2023/03/GulabJamun2-.webp",
+        "price": 160
+    },
+    {
+        "id": 46,
+        "menu": "Indian",
+        "category": "Desserts",
+        "item": "Rasgulla",
+        "recipe": "Spongy cottage cheese balls served in light sugar syrup, a refreshing dessert.",
+        "image": "https://cdn.ready-market.com/101/21cd62de//Templates/pic/ANKO-Rasgulla-1200X1200.jpg?v=7021b195",
+        "price": 150
+    },
+    {
+        "id": 47,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Bruschetta",
+        "recipe": "Toasted bread topped with fresh tomatoes, basil, garlic, and olive oil, a classic Italian starter.",
+        "image": "https://img.freepik.com/free-photo/rustic-ciabatta-sandwich-with-prosciutto-grilled-vegetables-fresh-salad-generated-by-ai_188544-55658.jpg?t=st=1693651533~exp=1693655133~hmac=2a4ab4ac82c890741f93a717b1bf6f0d89ff6358637e1f05d44bf17bbfd05191&w=740",
+        "price": 280
+    },
+    {
+        "id": 48,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Caprese Salad",
+        "recipe": "Slices of fresh mozzarella, tomatoes, and basil drizzled with balsamic reduction, a light and refreshing appetizer.",
+        "image": "https://img.freepik.com/free-photo/fresh-greek-salad-with-mozzarella-olives-generated-by-ai_188544-24663.jpg?t=st=1693651565~exp=1693655165~hmac=b99040057f080b9e5cec0547df056f39c6893c3fc51433a6e290ef3e5d9b8e00&w=740",
+        "price": 350
+    },
+    {
+        "id": 49,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Arancini",
+        "recipe": "Fried rice balls filled with gooey mozzarella and a flavorful center, served with marinara sauce.",
+        "image": "https://img.freepik.com/free-photo/healthy-meal-baked-chicken-vegetables-parsley-generated-by-ai_188544-18613.jpg?t=st=1693651586~exp=1693655186~hmac=5e8a70f0fe2d29bb64d666e13b369bac77e0c4ef02f1852e7eab5888ff27f605&w=740",
+        "price": 320
+    },
+    {
+        "id": 50,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Calamari Fritti",
+        "recipe": "Crispy deep-fried calamari rings, often accompanied by lemon and aioli dipping sauce.",
+        "image": "https://tatoremiami.com/wp-content/uploads/2019/10/menu5.jpg",
+        "price": 400
+    },
+    {
+        "id": 51,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Antipasto Platter",
+        "recipe": "A selection of cured meats, cheeses, olives, and marinated vegetables, perfect for sharing.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Antipasto_Platter.jpg/640px-Antipasto_Platter.jpg",
+        "price": 450
+    },
+    {
+        "id": 52,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Carpaccio",
+        "recipe": "Thinly sliced raw beef or fish drizzled with olive oil, lemon juice, and capers, offering a delicate flavor.",
+        "image": "https://www.pregnantplate.com/wp-content/uploads/carpaccio.jpg",
+        "price": 380
+    },
+    {
+        "id": 53,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Stuffed Mushrooms",
+        "recipe": "Mushrooms stuffed with a mixture of breadcrumbs, cheese, herbs, and garlic, baked to perfection.",
+        "image": "https://media.istockphoto.com/id/617387012/photo/stuffed-mushrooms.jpg?s=612x612&w=0&k=20&c=Cll-0KVTO4cXOLH_3TNacHbmyt8uPaicecMQ-AWWOJw=",
+        "price": 320
+    },
+    {
+        "id": 54,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Prosciutto e Melone",
+        "recipe": "Slices of melon wrapped with prosciutto, creating a sweet and savory contrast.",
+        "image": "https://t4.ftcdn.net/jpg/05/87/29/03/360_F_587290361_Jihaxvct8nHXlT8GqDqrZaCTVaocd4bQ.jpg",
+        "price": 350
+    },
+    {
+        "id": 55,
+        "menu": "Italian",
+        "category": "Appetizers",
+        "item": "Fried Mozzarella",
+        "recipe": "Breaded and fried mozzarella sticks served with marinara sauce, a crowd-pleasing favorite.",
+        "image": "https://tmbidigitalassetsazure.blob.core.windows.net/toh/GoogleImagesPostCard/Fried-Mozzarella-Cheese-Appetizers_exps47753_HC1864839A10_26_1bC_RMS.jpg",
+        "price": 300
+    },
+    {
+        "id": 56,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Margherita Pizza",
+        "recipe": "A classic Roman Main Courses dish made with eggs, Pecorino Romano cheese, guanciale (cured pork), and black pepper.",
+        "image": "https://bettyscooknook.files.wordpress.com/2012/03/spaghetti-carbonara1.jpg",
+        "price": 400
+    },
+    {
+        "id": 57,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Spaghetti Carbonara",
+        "recipe": "Layers of Main Courses sheets, rich meat sauce, creamy béchamel, and melted cheese, baked to perfection.",
+        "image": "https://www.eatingwell.com/thmb/_5yoW8XVGwxu50uBZUPVT2F5v4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3755319-ad9269e6ec0e40fba701fe00cafd4b94.jpg",
+        "price": 380
+    },
+    {
+        "id": 58,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Chicken Parmesan",
+        "recipe": "Main Courses parcels filled with various fillings, such as ricotta and spinach, served with marinara or Alfredo sauce.",
+        "image": "https://www.zouschef.com/wp-content/uploads/2021/09/ground-pork-ravioli-plated-1024x819.jpg.webp",
+        "price": 450
+    },
+    {
+        "id": 59,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Ravioli al Burro e Salvia",
+        "recipe": "Wide Main Courses ribbons tossed in a creamy Alfredo sauce made with butter, heavy cream, and Parmesan cheese.",
+        "image": "https://mediavine-res.cloudinary.com/image/upload/s--lUpq2ptU--/ar_4:3,c_fill,f_auto,fl_lossy,q_auto/v1620671410/gyy1ets0f2h2vgp6cu3e.jpg",
+        "price": 380
+    },
+    {
+        "id": 60,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Lasagna",
+        "recipe": "Penne Main Courses in a creamy tomato and vodka sauce, garnished with fresh basil.",
+        "image": "https://www.italianstylecooking.net/wp-content/uploads/2021/11/Penne-alla-Vodka.jpg",
+        "price": 420
+    },
+    {
+        "id": 61,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Ossobuco",
+        "recipe": "Soft potato dumplings served with a variety of sauces, such as pesto or tomato sauce.",
+        "image": "https://www.traderjoes.com/content/dam/trjo/context-images/73578-gnocchi-2-pdp.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "price": 480
+    },
+    {
+        "id": 62,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Gnocchi",
+        "recipe": "Wide ribbon-like Main Courses served with a rich and earthy wild mushroom sauce.",
+        "image": "https://media.healthyfood.com/wp-content/uploads/2017/03/Pappardelle_with_rich_mushroom_sauce.jpg",
+        "price": 350
+    },
+    {
+        "id": 63,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Fettuccine Alfredo",
+        "recipe": "Spaghetti tossed with garlic, red pepper flakes, olive oil, and fresh parsley for a simple yet flavorful dish.",
+        "image": "https://www.carolynscooking.com/wp-content/uploads/2022/08/Aglio-e-Olio-4.jpg",
+        "price": 350
+    },
+    {
+        "id": 64,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Margherita Pizza",
+        "recipe": "Classic pizza topped with tomato sauce, fresh mozzarella cheese, basil, and a drizzle of olive oil.",
+        "image": "https://www.cookingchanneltv.com/content/dam/images/cook/fullset/2011/1/6/0/CCEV103_Margherita-Pizza_s4x3.jpg",
+        "price": 400
+    },
+    {
+        "id": 65,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Ossobuco",
+        "recipe": "•Braised veal shanks cooked with vegetables, white wine, and broth, often served with gremolata.",
+        "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVwcGVyb25pJTIwcGl6emF8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "price": 480
+    },
+    {
+        "id": 66,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Eggplant Parmesan",
+        "recipe": "Breaded and fried eggplant slices layered with marinara sauce and melted cheese, a vegetarian delight.",
+        "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2021/03/Veggie-Pizza-8-500x375.jpg",
+        "price": 320
+    },
+    {
+        "id": 67,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Ravioli al Burro e Salvia",
+        "recipe": "•Cheese-filled ravioli sautéed in butter and sage, resulting in a simple yet flavorful dish. ",
+        "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/123CBE4C-517C-4401-A668-0D0884F45883/Derivates/936C2A3A-0418-4A9A-B116-E338CABE0650.jpg",
+        "price": 380
+    },
+    {
+        "id": 68,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Spaghetti Carbonara",
+        "recipe": "Pasta tossed with eggs, cheese, pancetta, and black pepper, creating a creamy and indulgent dish. ",
+        "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2014%2F03%2F25%2Fprosciutto-arugula-pizza-ck-x.jpg&q=60",
+        "price": 380
+    },
+    {
+        "id": 69,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Fettuccine Alfredo",
+        "recipe": "Pizza loaded with a variety of meats, including pepperoni, sausage, bacon, and ham.",
+        "image": "https://www.queensleeappetit.com/wp-content/uploads/2019/02/Meat-Lovers-Pizza-5-1-480x480.jpg",
+        "price": 350
+    },
+    {
+        "id": 70,
+        "menu": "Italian",
+        "category": "Main Courses",
+        "item": "Seafood Pizza",
+        "recipe": "Pizza topped with a medley of seafood, such as shrimp, mussels, and calamari, in a garlic and white wine sauce.",
+        "image": "https://img.freepik.com/free-photo/pizza-with-shrimp-salmonnd-olives_2829-4074.jpg",
+        "price": 420
+    },
+    {
+        "id": 71,
+        "menu": "Italian",
+        "category": "Desserts",
+        "item": "Tiramisu",
+        "recipe": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder.",
+        "image": "https://t3.ftcdn.net/jpg/03/28/01/60/360_F_328016056_Ro67OjyMT2dnGFL6v4VKKoAkIcakElTW.jpg",
+        "price": 280
+    },
+    {
+        "id": 72,
+        "menu": "Italian",
+        "category": "Desserts",
+        "item": "Cannoli",
+        "recipe": "Crispy pastry tubes filled with sweet ricotta cheese and chocolate chips, a beloved Italian treat.",
+        "image": "https://media.istockphoto.com/id/614978918/photo/traditional-sicilian-cannoli-stuffed-with-ricotta-and-pistachios.jpg?s=612x612&w=0&k=20&c=As8zmoG92Z3jPQqNPXgbbioDrnzxaqgk74EhGusXKxY=",
+        "price": 300
+    },
+    {
+        "id": 73,
+        "menu": "Italian",
+        "category": "Desserts",
+        "item": "Panna Cotta",
+        "recipe": "Creamy Italian dessert flavored with vanilla and served with a berry compote.",
+        "image": "https://cdn4.tuscanynowandmore.com/storage/app/uploads/public/070/ddb/6ef/thumb__1920_0_0_0_auto.jpg",
+        "price": 260
+    },
+    {
+        "id": 74,
+        "menu": "Italian",
+        "category": "Desserts",
+        "item": "Amaretto Biscotti",
+        "recipe": "Smooth and creamy Italian ice cream available in a variety of flavors.",
+        "image": "https://cdn.britannica.com/98/235998-050-040945FE/Hand-holding-two-scoops-of-gelato-on-a-waffle-cone-Italy.jpg",
+        "price": 180
+    },
+    {
+        "id": 75,
+        "menu": "Italian",
+        "category": "Desserts",
+        "item": "Affogato",
+        "recipe": "A simple yet delightful dessert consisting of a scoop of vanilla gelato or ice cream drowned in a shot of hot espresso.",
+        "image": "https://media.istockphoto.com/id/476824782/photo/coffee-latte.jpg?s=612x612&w=0&k=20&c=VPJGWG-hQGwf3648HvtXPMLO_Pp5rN_7ndZUkF0n3l0=",
+        "price": 250
+    },
+    {
+        "id": 76,
+        "menu": "Italian",
+        "category": "Beverages",
+        "item": "Espresso",
+        "recipe": "A strong and concentrated coffee served in small shots, a staple in Italian coffee culture.",
+        "image": "https://img.freepik.com/premium-photo/product-shots-photo-bisque-with-no-backgrou_670382-122024.jpg?w=740",
+        "price": 90
+    },
+    {
+        "id": 77,
+        "menu": "Italian",
+        "category": "Beverages",
+        "item": "Cappuccino",
+        "recipe": "Espresso mixed with steamed milk and topped with a layer of frothed milk foam, often dusted with cocoa or cinnamon.",
+        "image": "https://img.freepik.com/free-photo/cup-coffee-table_1373-8.jpg?w=740&t=st=1693651450~exp=1693652050~hmac=30f84daa5da357f0a92eef3968242732eabed9527ec4ed06574b9a592ff29747",
+        "price": 140
+    },
+    {
+        "id": 78,
+        "menu": "Italian",
+        "category": "Beverages",
+        "item": "Limoncello",
+        "recipe": "A lemon-flavored liqueur served as an after-dinner digestif, known for its refreshing and sweet-tart flavor.",
+        "image": "https://st2.depositphotos.com/1835807/5499/i/450/depositphotos_54999759-stock-photo-limoncello.jpg",
+        "price": 170
+    }
+]
